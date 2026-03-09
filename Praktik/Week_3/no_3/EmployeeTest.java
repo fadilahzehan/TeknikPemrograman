@@ -1,4 +1,4 @@
-package Week_3.no_3;
+package Praktik.Week_3.no_3;
 
 public class EmployeeTest {
     public static void main(String[] args) {

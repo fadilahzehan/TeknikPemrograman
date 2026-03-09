@@ -1,4 +1,4 @@
-package Week_4;
+package Teori.Week_4;
 // Mendeklarasikan Record
 record MenuItem(String nama, double harga, String kategori) {}
 

@@ -1,3 +1,4 @@
+package Praktik.Week_3.no_2.shape;
 public class Rectangle extends Shape {
     private double width;
     private double length;

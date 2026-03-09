@@ -1,3 +1,4 @@
+package Praktik.Week_3.no_2.shape;
 public class TestShape {
     public static void main(String[] args) {
         // Uji Shape
