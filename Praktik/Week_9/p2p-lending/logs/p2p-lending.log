@@ -1,0 +1,36 @@
+2026-04-27 20:33:16 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=true, creditScore=500, amount=1000
+2026-04-27 20:33:16 WARN  LoanService - Loan REJECTED untuk borrower dengan creditScore=500 (threshold=600)
+2026-04-27 20:33:16 INFO  LoanService - Status akhir loan: REJECTED
+2026-04-27 20:33:16 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=true, creditScore=750, amount=1000
+2026-04-27 20:33:16 INFO  LoanService - Loan APPROVED untuk borrower dengan creditScore=750
+2026-04-27 20:33:16 INFO  LoanService - Status akhir loan: APPROVED
+2026-04-27 20:33:16 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=true, creditScore=700, amount=0
+2026-04-27 20:33:16 ERROR LoanService - Jumlah pinjaman tidak valid: 0
+2026-04-27 20:33:16 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=true, creditScore=700, amount=-500
+2026-04-27 20:33:16 ERROR LoanService - Jumlah pinjaman tidak valid: -500
+2026-04-27 20:33:16 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=false, creditScore=700, amount=1000
+2026-04-27 20:33:16 ERROR LoanService - Pengajuan ditolak: borrower belum terverifikasi KYC
+2026-04-27 20:33:34 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=true, creditScore=500, amount=1000
+2026-04-27 20:33:34 WARN  LoanService - Loan REJECTED untuk borrower dengan creditScore=500 (threshold=600)
+2026-04-27 20:33:34 INFO  LoanService - Status akhir loan: REJECTED
+2026-04-27 20:33:34 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=true, creditScore=750, amount=1000
+2026-04-27 20:33:34 INFO  LoanService - Loan APPROVED untuk borrower dengan creditScore=750
+2026-04-27 20:33:34 INFO  LoanService - Status akhir loan: APPROVED
+2026-04-27 20:33:34 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=true, creditScore=700, amount=0
+2026-04-27 20:33:34 ERROR LoanService - Jumlah pinjaman tidak valid: 0
+2026-04-27 20:33:34 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=true, creditScore=700, amount=-500
+2026-04-27 20:33:34 ERROR LoanService - Jumlah pinjaman tidak valid: -500
+2026-04-27 20:33:34 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=false, creditScore=700, amount=1000
+2026-04-27 20:33:34 ERROR LoanService - Pengajuan ditolak: borrower belum terverifikasi KYC
+2026-04-27 20:33:59 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=true, creditScore=500, amount=1000
+2026-04-27 20:33:59 WARN  LoanService - Loan REJECTED untuk borrower dengan creditScore=500 (threshold=600)
+2026-04-27 20:33:59 INFO  LoanService - Status akhir loan: REJECTED
+2026-04-27 20:33:59 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=true, creditScore=750, amount=1000
+2026-04-27 20:33:59 INFO  LoanService - Loan APPROVED untuk borrower dengan creditScore=750
+2026-04-27 20:33:59 INFO  LoanService - Status akhir loan: APPROVED
+2026-04-27 20:33:59 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=true, creditScore=700, amount=0
+2026-04-27 20:33:59 ERROR LoanService - Jumlah pinjaman tidak valid: 0
+2026-04-27 20:33:59 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=true, creditScore=700, amount=-500
+2026-04-27 20:33:59 ERROR LoanService - Jumlah pinjaman tidak valid: -500
+2026-04-27 20:33:59 INFO  LoanService - Memproses pengajuan loan untuk borrower verified=false, creditScore=700, amount=1000
+2026-04-27 20:33:59 ERROR LoanService - Pengajuan ditolak: borrower belum terverifikasi KYC
